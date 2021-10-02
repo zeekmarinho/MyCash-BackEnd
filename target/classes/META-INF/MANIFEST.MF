@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mycash
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DANIEL
+Implementation-Vendor-Id: com.mycash
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/mycash
+Created-By: Maven Integration for Eclipse
+

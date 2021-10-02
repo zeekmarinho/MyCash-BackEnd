@@ -1,0 +1,11 @@
+com\mycash\mycash\model\UserInformation.class
+com\mycash\mycash\controller\ReceitaController.class
+com\mycash\mycash\controller\DespesaController.class
+com\mycash\mycash\model\Receita.class
+com\mycash\mycash\model\Despesa.class
+com\mycash\mycash\model\User.class
+com\mycash\mycash\repository\ReceitaRepository.class
+com\mycash\mycash\repository\UserRepository.class
+com\mycash\mycash\MycashApplication.class
+com\mycash\mycash\repository\UserInforfationRepository.class
+com\mycash\mycash\repository\DespesaRepository.class
